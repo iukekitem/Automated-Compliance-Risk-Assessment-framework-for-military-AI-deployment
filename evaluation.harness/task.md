@@ -1,0 +1,7 @@
+- [x] Create project directory and setup `eval_rules.py`
+- [x] Define the mock LLM transaction logs dataset
+- [x] Implement the OpSec leak detection function
+- [x] Implement the policy violation check function
+- [x] Implement the data bias/fairness check function
+- [x] Implement the main TEVV runner and audit report generator
+- [x] Verify the implementation by running the script
